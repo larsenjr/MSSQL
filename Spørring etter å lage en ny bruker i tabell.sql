@@ -1,0 +1,1 @@
+INSERT into student (fornavn, etternavn, adresse, telefonnummer, poststed_idPostnummer, kjonn, alder) VALUES('Hanne', 'Bergstikkstuen', 'Tangerudbakken 73', '69696969', '2320', 'Male', '34');

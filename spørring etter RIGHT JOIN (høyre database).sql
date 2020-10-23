@@ -1,0 +1,1 @@
+SELECT * from leverandorer RIGHT JOIN kontakter ON leverandorer.id = kontakter.leverandorId;
